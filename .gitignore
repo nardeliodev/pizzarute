@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+.gradle/
+.idea/
+build/
+*/build/
+local.properties
+*.iml
+=======
 # Gradle files
 .gradle/
 build/
@@ -32,3 +40,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Gradle caches e wrappers locais
+.gradle/
+.gradle-wrapper-cache/
+build/
+*.zip
+*.jar
+
+>>>>>>> 9aad1683a058139f1a52ac656fecc20bea532e24

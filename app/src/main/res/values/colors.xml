@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pizza_rute_primary">#C8102E</color>
+    <color name="pizza_rute_primary_dark">#8E0F20</color>
+    <color name="pizza_rute_primary_container">#FFD9DD</color>
+    <color name="pizza_rute_on_primary">#FFFFFF</color>
+    <color name="pizza_rute_secondary">#A5162A</color>
+    <color name="pizza_rute_tertiary">#F28B82</color>
+    <color name="pizza_rute_background">#FFF8F7</color>
+    <color name="pizza_rute_surface">#FFFFFF</color>
+    <color name="pizza_rute_surface_variant">#F8EDEE</color>
+</resources>
